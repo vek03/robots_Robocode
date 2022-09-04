@@ -1,2 +1,3 @@
 # robots_Robocode
-Robôs criados por mim e pela minha equipe para uma competição Robocode. 2 Robôs autônomos programados em P.O.O com JAVA.
+VekRobot: Robô focado em evitar balas e obstáculos
+Walls_Mod: Modificação do robô 'Walls', implementando mira focal e maior velocidade de análise de campo e tiro.
